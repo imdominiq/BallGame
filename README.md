@@ -1,2 +1,2 @@
 BallGame
-Projekt zaliczeniowy na moduł ,,Programowanie i Projektowanie gier
+Projekt zaliczeniowy na moduł Programowanie i Projektowanie gier
